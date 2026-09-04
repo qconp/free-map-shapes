@@ -5,7 +5,7 @@ Five map outlines as clean, editable SVG. No watermark, no sign-up, no email.
 | Shape | File | Outline points |
 |---|---|---|
 | Manhattan, New York | [`manhattan-island.svg`](manhattan-island.svg) | 675 |
-| San Francisco Bay, California | [`san-francisco-bay.svg`](san-francisco-bay.svg) | 641 |
+| San Francisco Bay, California | [`san-francisco-bay.svg`](san-francisco-bay.svg) | 578 |
 | Lake Tahoe, USA | [`lake-tahoe.svg`](lake-tahoe.svg) | 2,504 |
 | Santorini, Greece | [`santorini.svg`](santorini.svg) | 1,574 |
 | Yakushima, Japan | [`yakushima.svg`](yakushima.svg) | 3,183 |
