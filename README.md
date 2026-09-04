@@ -29,6 +29,11 @@ Keep a visible credit where practical:
 Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors
 ```
 
+## Also on Figma
+
+The same five shapes are published as a Figma Community file, ready to duplicate:
+https://www.figma.com/community/file/1677846755124311575/free-vector-map-shapes-svg
+
 ## Any other area
 
 These five are samples. The same generator covers any boundary that exists in
