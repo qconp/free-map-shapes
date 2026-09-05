@@ -8,7 +8,7 @@ Five map outlines as clean, editable SVG. No watermark, no sign-up, no email.
 | San Francisco Bay, California | [`san-francisco-bay.svg`](san-francisco-bay.svg) | 578 |
 | Lake Tahoe, USA | [`lake-tahoe.svg`](lake-tahoe.svg) | 2,504 |
 | Santorini, Greece | [`santorini.svg`](santorini.svg) | 1,574 |
-| Yakushima, Japan | [`yakushima.svg`](yakushima.svg) | 3,183 |
+| Yakushima, Japan | [`yakushima.svg`](yakushima.svg) | 5,970 |
 
 ## What makes these different from a screenshot of a map
 
@@ -28,11 +28,6 @@ Keep a visible credit where practical:
 <a href="https://mapcut.qconp.com">Map Shape Cutout</a> ·
 Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors
 ```
-
-## Also on Figma
-
-The same five shapes are published as a Figma Community file, ready to duplicate:
-https://www.figma.com/community/file/1677846755124311575/free-vector-map-shapes-svg
 
 ## Any other area
 
